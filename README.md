@@ -1,4 +1,4 @@
-# Human_Stress_pred  
+# Human_Stress_pred  (Text Sentiment Analysis)  
 ## About Dataset  
 “subreddit – post_id – sentence_range – text-label-confidence-social_timestamp” represents the titles for Stress.csv file.
 
